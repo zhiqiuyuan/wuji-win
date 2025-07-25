@@ -1,11 +1,11 @@
 {
-  "productName": "WeRead",
-  "identifier": "com.pake.weread",
+  "productName": "WuJi",
+  "identifier": "com.pake.wuji",
   "version": "1.0.0",
   "app": {
     "withGlobalTauri": true,
     "trayIcon": {
-      "iconPath": "png/weread_512.png",
+      "iconPath": "png/wuji_512.png",
       "iconAsTemplate": false,
       "id": "pake-tray"
     }
